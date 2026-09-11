@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Experiment outputs and large captures
+artifacts/
+figures/
+report/
+results/
+*.bin
+*.safetensors
+*.npy
+*.npz
+
+# Local/editor state
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.tmp
+

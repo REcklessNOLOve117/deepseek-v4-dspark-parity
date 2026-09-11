@@ -1,0 +1,10 @@
+{
+  "capture": true,
+  "capture_dir": "/opt/dsv4-parity/results/S1",
+  "capture_limit_bytes": 34359738368,
+  "mode": "dspark",
+  "model_path": "/home/shared/deepseek-ai/deepseek-v4-flash-0731",
+  "port": 8002,
+  "run_id": "S1"
+}
+

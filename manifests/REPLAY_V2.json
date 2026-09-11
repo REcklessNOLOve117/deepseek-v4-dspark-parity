@@ -1,0 +1,13 @@
+{
+  "capture": false,
+  "capture_dir": "/opt/dsv4-parity/results/replay_service_v2",
+  "capture_limit_bytes": 34359738368,
+  "enforce_eager": true,
+  "mode": "dspark",
+  "model_path": "/home/shared/deepseek-ai/deepseek-v4-flash-0731",
+  "port": 8002,
+  "replay_limit_bytes": 34359738368,
+  "replay_manifest": "/opt/dsv4-parity/replay_execution_manifest.json",
+  "replay_output_dir": "/opt/dsv4-parity/results/replay_v2",
+  "run_id": "REPLAY_V2"
+}
